@@ -33,7 +33,7 @@
    git clone https://github.com/sans-algo/Shopping-Website.git
 
 ## 🌐 Live Demo
-Check out the live demo here: [Shopping Website Live](https://your-username.github.io/shopping-ebrsite/)
+Check out the live demo here: [Shopping Website Live](https://sans-algo.github.io/Shopping-Website/)
 
 GitHub repository: [https://github.com/sans-algo/Shopping-Website](https://github.com/sans-algo/Shopping-Website)
 
